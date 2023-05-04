@@ -1,10 +1,11 @@
 # The-morning
-exercise for my Creative 3D Graphics exam. 
+Exercise for my Creative 3D Graphics exam. 
 
 I've modeled and animated a little fox in the forest
 
 The aesthetic style is low poly
 
+I've used Autodesk Maya for this project
 
 ![](https://github.com/ElisaLunardelli369/The-morning/blob/main/Screenshot/SCENA.0003.png)
 
