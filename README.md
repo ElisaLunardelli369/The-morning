@@ -1,5 +1,5 @@
 # The-morning
-Exercise for my Creative 3D Graphics exam. 
+Project for my Creative 3D Graphics exam. 
 
 I've modeled and animated a little fox in the forest
 
